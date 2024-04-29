@@ -39,7 +39,7 @@ definePageMeta({
           <ul class="list-disc text-base text-gray-800 leading-relaxed mt-4 ml-8">
             <li><span class="font-bold text-lg">Languages:</span> JavaScript, Python, Java</li>
             <li><span class="font-bold text-lg">Frontend:</span> Flutter, HTML/CSS, Tailwind CSS</li>
-            <li><span class="font-bold text-lg">Backend:</span> Node.js, Express, Django, Flask</li>
+            <li><span class="font-bold text-lg">Backend:</span> Node.js, Django, Flask</li>
             <li><span class="font-bold text-lg">Databases:</span> MongoDB, PostgreSQL, MySQL</li>
             <li><span class="font-bold text-lg">Tools & Technologies:</span> Git, Docker, RESTful APIs, GraphQL</li>
             <li><span class="font-bold text-lg">UI/UX Design:</span> Figma, Adobe XD, Sketch</li>
@@ -47,10 +47,10 @@ definePageMeta({
 
         <h3 class="font-bold text-xl mt-8">Experience</h3>
         <div class="text-lg text-gray-800 leading-relaxed mt-4">
-          <p class="border-b-2 border-b-red-500">Full Stack Developer | ABC Tech Solutions | 2022 - Present</p>
+          <p class="border-b-2 border-b-red-500">Full Stack Developer | WeThinkCode_ | 2022 - Present</p>
           <ul class="list-disc pl-8 text-base">
             <li>Led the development of a responsive website using Next.js and TypeScript, resulting in improved performance and user engagement.</li>
-            <li>Designed and implemented a mobile app for scanning products in retail stores, streamlining inventory management processes and enhancing customer experience.</li>
+            <li>Designed and implemented a mobile app for allowing Service providers in a small Township to be able advertise and leverage their skills to people who are in need of a service.</li>
             <li>Developed an API for Dev Folio to facilitate easy integration for recruiters, enabling seamless communication and data exchange.</li>
           </ul>
         </div>
