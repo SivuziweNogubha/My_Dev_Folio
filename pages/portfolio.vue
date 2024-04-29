@@ -5,14 +5,14 @@ definePageMeta({
 
 const projects = [
   {
-    title: "E-commerce Website with Next.js",
-    description: "Developed a full-fledged e-commerce platform using Next.js, incorporating TypeScript for enhanced type checking and code maintainability. Implemented features such as product listings, user authentication, and checkout functionality.",
-    technologies: "Next.js, TypeScript, Tailwind CSS, MongoDB"
+    title: "Football Match Predictor with Python",
+    description: "Developed a full-fledged model which is capable of predicting football match outcomes",
+    technologies: "Python, jmespath, pandas, matplotlib"
   },
   {
-    title: "Retail Product Scanner App",
-    description: "Designed and built a mobile application for scanning products in retail stores, allowing users to view product details and check availability in real-time. Integrated with backend APIs to fetch and update product information from the database.",
-    technologies: "React Native, Node.js, Express, MongoDB"
+    title: "A Craigslist for local townships(Local konnect)",
+    description: "Designed and built a mobile application for allowing people at small Townships to be able to enlist/ signup as either a Service provider or someone who is seeking service from service providers(e.g gardening services, barber, plumbing services, technicians etc.)",
+    technologies: "Flutter, Dart for front-end and firebase for back-end"
   },
   {
     title: "Dev Folio Integration API",
@@ -22,8 +22,10 @@ const projects = [
 ];
 
 const certifications = [
-  "AWS Certified Developer - Associate",
-  "Google Certified Professional - Cloud Architect"
+  "HackerRank - Programming using python",
+  "HackerRank - Programming using java",
+  "Sololearn - Java OOP course",
+  "Sololearn - Java fundamentals"
 ];
 </script>
 
