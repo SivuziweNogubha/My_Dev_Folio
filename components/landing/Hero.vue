@@ -33,7 +33,7 @@
             <Icon class="text-black hover:text-red-600" name="bx:bxl-twitter" size="24" />
           </a>
           <a
-            href="https://linkedin.com/in/your-linkedin-profile"
+            href="https://linkedin.com/in/sivuziwe-nogubha-2b3979212"
             target="_blank"
             rel="noopener"
             class="mr-4 border-b-2 border-b-red-600 "
@@ -41,12 +41,12 @@
             <Icon class="text-black hover:text-red-600" name="bx:bxl-linkedin" size="24" />
           </a>
           <a
-            href="https://github.com/your-github-profile"
+            href="https://github.com/SivuziweNogubha"
             target="_blank"
             rel="noopener"
             class="mr-4 border-b-2 border-b-red-600 "
           >
-            <Icon class="text-black hover:text-red-600" name="bx:bxl-github" size="24" />
+            <Icon class="text-black hover:text-blue-600" name="bx:bxl-github" size="24" />
           </a>
         </div>
         
@@ -55,7 +55,7 @@
           
           >DevFolio developed by <a 
           class="font-semibold text-red-700 italic"
-          href="https://github.com/paulmothapo"
+          href="https://github.com/SivuziweNogubha"
           target="_blank"
           rel="noopener"
           >sivuziwenogubha</a></div
