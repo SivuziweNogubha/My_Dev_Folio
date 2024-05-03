@@ -29,7 +29,7 @@
       <div class="mt-6 flex flex-col sm:flex-row gap-3 text-gray-500">
         <div class="flex justify-center mt-4 mb-6 ">
           <a
-            href="https://twitter.com/your-twitter-handle"
+            href="https://instagram.com/your-twitter-handle"
             target="_blank"
             rel="noopener"
             class="mr-4 border-b-2 border-b-red-600 "
